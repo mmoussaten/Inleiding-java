@@ -1,12 +1,14 @@
-package h01;
+import java.awt.*;
+import java.applet.*;
 
-/**
- * Created by piet on 31-08-16.
- */
-public class HalloRocDev {
+public class HalloRocDev extends Applet {
 
-    public static void main(String[] args) {
+    public void init() {
+        setBackground(Color.magenta);
+    }
 
-        System.out.println("Testie");
+    public void paint(Graphics g) {
+        g.setColor(Color.yellow);
+        g.drawString("Welcome to Java!!", 50, 60 );
     }
 }
