@@ -1,7 +1,7 @@
 package h02;
 
-import java.awt.*;
-import java.applet.*;
+        import java.awt.*;
+        import java.applet.*;
 
 public class h2 extends Applet {
 
