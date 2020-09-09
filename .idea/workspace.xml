@@ -2,14 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="426cf87f-9f99-4e1f-ab11-d1e3853ac197" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/h04/NederlandseVlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/dobbelsteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/ellipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/inlog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/praktijkopdracht.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/staafdiagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/stoplicht.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h05/h051.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h01/HalloRocDev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h01/HalloRocDev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h02/Op2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/Op2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,21 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.NederlandseVlag">
-    <configuration name="Driehoek" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.Driehoek" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HalloRocDev" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HalloRocDev" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.Op2">
     <configuration name="NederlandseVlag" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.NederlandseVlag" />
       <module name="inleiding-java" />
@@ -77,15 +85,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Op1" type="Applet" temporary="true" nameIsGenerated="true">
+    <configuration name="Op1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Op1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="huisje" type="Applet" temporary="true" nameIsGenerated="true">
+    <configuration name="Op2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h02.Op2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="huisje" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.huisje" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="praktijkopdracht" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.praktijkopdracht" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staafdiagram" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.staafdiagram" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stoplicht" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.stoplicht" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.Op2" />
+        <item itemvalue="Applet.staafdiagram" />
+        <item itemvalue="Applet.praktijkopdracht" />
+        <item itemvalue="Applet.stoplicht" />
         <item itemvalue="Applet.NederlandseVlag" />
-        <item itemvalue="Applet.huisje" />
-        <item itemvalue="Applet.Driehoek" />
-        <item itemvalue="Applet.HalloRocDev" />
-        <item itemvalue="Applet.Op1" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +150,21 @@
       <workItem from="1567500228121" duration="7404000" />
       <workItem from="1567578975608" duration="1765000" />
       <workItem from="1567597195252" duration="610000" />
-      <workItem from="1567664949124" duration="23579000" />
+      <workItem from="1567664949124" duration="32162000" />
+      <workItem from="1567781118725" duration="2283000" />
+      <workItem from="1567787556263" duration="3334000" />
+      <workItem from="1567841874044" duration="1776000" />
+      <workItem from="1567892427394" duration="666000" />
+      <workItem from="1568011007111" duration="9435000" />
+      <workItem from="1568043739654" duration="3065000" />
+      <workItem from="1568108137812" duration="1071000" />
+      <workItem from="1568183502137" duration="954000" />
+      <workItem from="1568275229678" duration="15000" />
+      <workItem from="1568712463889" duration="659000" />
+      <workItem from="1568891482888" duration="250000" />
+      <workItem from="1595425242164" duration="660000" />
+      <workItem from="1598179394869" duration="2024000" />
+      <workItem from="1599474501259" duration="2007000" />
     </task>
     <task id="LOCAL-00001" summary="h2">
       <created>1567511386987</created>
@@ -158,11 +208,28 @@
       <option name="project" value="LOCAL" />
       <updated>1567760973563</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="h04.2">
+      <created>1567764610736</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567764610736</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

@@ -1,3 +1,5 @@
+package h01;
+
 import java.awt.*;
 import java.applet.*;
 
