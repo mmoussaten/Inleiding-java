@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="426cf87f-9f99-4e1f-ab11-d1e3853ac197" name="Default Changelist" comment="eerste versie">
+    <list default="true" id="426cf87f-9f99-4e1f-ab11-d1e3853ac197" name="Default Changelist" comment="variabele staafdiagram">
       <change afterPath="$PROJECT_DIR$/src/h04/inlog.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/h05/opdr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h05/opdr2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/opdr1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.opdr2">
+  <component name="RunManager" selected="Applet.opdr1 (1)">
     <configuration name="Op1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Op1" />
       <module name="inleiding-java" />
@@ -83,6 +82,13 @@
     </configuration>
     <configuration name="huisje" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.huisje" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="opdr1 (1)" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.opdr1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,20 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stoplicht" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.stoplicht" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.opdr1 (1)" />
         <item itemvalue="Applet.opdr2" />
         <item itemvalue="Applet.opdr1" />
         <item itemvalue="Applet.staafdiagram (1)" />
         <item itemvalue="Applet.praktijkopdracht" />
-        <item itemvalue="Applet.stoplicht" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +161,8 @@
       <workItem from="1598179394869" duration="2024000" />
       <workItem from="1599474501259" duration="6458000" />
       <workItem from="1599827984468" duration="1358000" />
-      <workItem from="1600057147530" duration="5275000" />
+      <workItem from="1600057147530" duration="5534000" />
+      <workItem from="1600335342220" duration="4913000" />
     </task>
     <task id="LOCAL-00001" summary="h2">
       <created>1567511386987</created>
@@ -262,6 +262,7 @@
     <MESSAGE value="h04" />
     <MESSAGE value="h04.2" />
     <MESSAGE value="eerste versie" />
-    <option name="LAST_COMMIT_MESSAGE" value="eerste versie" />
+    <MESSAGE value="variabele staafdiagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="variabele staafdiagram" />
   </component>
 </project>
