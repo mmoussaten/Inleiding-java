@@ -11,7 +11,6 @@ public class opdr1 extends Applet {
     public void init() {
         setSize(400, 400);
 
-        // variabelen initialere
         karwei=113;
         res =karwei/4;
 
