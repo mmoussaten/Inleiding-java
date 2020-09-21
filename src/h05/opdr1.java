@@ -1,20 +1,23 @@
 package h05;
 
+import javax.swing.*;
 import java.applet.Applet;
 import java.awt.*;
 
-public class opdr1  extends Applet {
+public class opdr1 extends Applet{
     //declaratie.
     Color opvulkleur;
     Color lijnkleur;
     int breedte;
     int hoogte;
+    int breedte2;
 
     public void init() {
         //initialisatie.
         opvulkleur = Color.MAGENTA;
         lijnkleur = Color.BLACK;
         breedte = 200;
+        breedte2 = 100;
         hoogte = 100;
     }
 
@@ -42,17 +45,16 @@ public class opdr1  extends Applet {
         g.setColor(opvulkleur);
         g.fillOval(315, 225, breedte, hoogte);
         //taartpunt met ovaal erom heen
-        g.fillArc(600,100,200,100,0,45);
+        g.fillArc(600,100,breedte,hoogte,0,45);
         g.setColor(Color.black);
-        g.drawOval(600, 100, 200, 100);
+        g.drawOval(600, 100, breedte, hoogte);
         g.drawString("taartpunt met een ovaal erom heen ",630,220);
         // cirkel//
         g.setColor(Color.black);
-        g.drawOval(650,230,100,100);
+        g.drawOval(650,230,breedte2,hoogte);
         g.drawString("een cirkel",670,355);
 
 
     }
 
 }
-
