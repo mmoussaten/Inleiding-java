@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="426cf87f-9f99-4e1f-ab11-d1e3853ac197" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/h06/opdr3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/praktijkopdracht.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/praktijkopdracht.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h05/opdr1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h05/opdr1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h06/opdr3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/opdr3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.opdr1">
+  <component name="RunManager" selected="Applet.opdr3">
     <configuration name="Op1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Op1" />
       <module name="inleiding-java" />
@@ -110,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="opdr2" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h05.opdr2" />
+    <configuration name="opdr3" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.opdr3" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.opdr3" />
         <item itemvalue="Applet.opdr1" />
         <item itemvalue="Applet.praktijkopdracht" />
         <item itemvalue="Applet.opdr2 (1)" />
         <item itemvalue="Applet.opdr1 (1)" />
-        <item itemvalue="Applet.opdr2" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +163,7 @@
       <workItem from="1599827984468" duration="1358000" />
       <workItem from="1600057147530" duration="5534000" />
       <workItem from="1600335342220" duration="7914000" />
-      <workItem from="1600412651330" duration="4604000" />
+      <workItem from="1600412651330" duration="5757000" />
     </task>
     <task id="LOCAL-00001" summary="h2">
       <created>1567511386987</created>
@@ -237,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600340596604</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="java update">
+      <created>1600685147377</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600685147377</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
