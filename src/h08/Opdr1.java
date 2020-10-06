@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class opdr1 extends Applet {
+public class Opdr1 extends Applet {
 
     TextField tekstvak;
     Button verzendknop;
