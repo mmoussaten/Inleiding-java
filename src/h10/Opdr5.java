@@ -1,7 +1,6 @@
 package h10;
 
-import javax.swing.*;
-import javax.xml.soap.Text;
+
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -20,7 +19,6 @@ public class Opdr5 extends Applet {
         numberTextfield = new TextField("",10);
         addGradeButton = new Button("+");
         averageButton = new Button("Bereken gemiddelde");
-
         addGradeButton.addActionListener(new addGradeListener());
         averageButton.addActionListener(new okButtonListener());
 
