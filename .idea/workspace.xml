@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="426cf87f-9f99-4e1f-ab11-d1e3853ac197" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/h10/Praktijkopdracht.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdr3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdr4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdr5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdr6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdr7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdr8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdr9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Pratijkopdracht11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/getallen/length.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/h12/Opdr1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/Opdr3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/Opdr4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/Opdr5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/Opdr6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/opdr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/pratijkopdracht12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/Opdr1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/Opdr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/Opdr3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/pratijkopdracht13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h14/Opdr1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h14/Opdr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h14/Pratijkopdracht14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h06/pratijkopdracht.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/Praktijkopdracht.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h10/Opdr5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h10/Opdr5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +75,7 @@
       <recent name="h04" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="getallen" />
       <recent name="h11" />
       <recent name="h08" />
     </key>
@@ -90,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.Pratijkopdracht11">
+  <component name="RunManager" selected="Applet.Opdr1">
     <configuration name="Op1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Op1" />
       <module name="inleiding-java" />
@@ -98,36 +100,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Opdr1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h14.Opdr1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdr2 (1)" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h14.Opdr2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdr2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.Opdr2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Opdr3" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.Opdr3" />
+      <option name="MAIN_CLASS_NAME" value="h13.Opdr3" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Opdr4" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.Opdr4" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Opdr8" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.Opdr8" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Opdr9" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.Opdr9" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pratijkopdracht11" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.Pratijkopdracht11" />
+    <configuration name="Opdracht_14_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h14.Opdracht_14_1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,13 +142,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pratijkopdracht13" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.pratijkopdracht13" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.Pratijkopdracht11" />
-        <item itemvalue="Applet.Opdr9" />
-        <item itemvalue="Applet.Opdr4" />
-        <item itemvalue="Applet.Opdr8" />
+        <item itemvalue="Applet.Opdr1" />
+        <item itemvalue="Applet.Opdr2 (1)" />
+        <item itemvalue="Applet.pratijkopdracht13" />
         <item itemvalue="Applet.Opdr3" />
+        <item itemvalue="Applet.Opdr2" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +192,11 @@
       <workItem from="1600335342220" duration="7914000" />
       <workItem from="1600412651330" duration="33164000" />
       <workItem from="1602226131242" duration="8154000" />
-      <workItem from="1603024686413" duration="30690000" />
+      <workItem from="1603024686413" duration="47147000" />
+      <workItem from="1604310604097" duration="16570000" />
+      <workItem from="1604949435979" duration="5781000" />
+      <workItem from="1605091980541" duration="13653000" />
+      <workItem from="1605170163736" duration="1039000" />
     </task>
     <task id="LOCAL-00001" summary="h2">
       <created>1567511386987</created>
@@ -297,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602077724917</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="java update">
+      <created>1603703617989</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1603703617990</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
